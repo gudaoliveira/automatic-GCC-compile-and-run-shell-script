@@ -18,9 +18,8 @@ He would automate this process, of course!
     * Enters the folder, executes the program and return to the input script folder
 
 ## SEE IT WORKING
-<video width="100%" height="240" controls>
-  <source src="./demonstration.mp4" type="video/mp4">
-</video>
+[![](./Screenshot.png)](https://www.youtube.com/watch?v=PG6wKooJChA)
+_Click on the image, [Or here](https://www.youtube.com/watch?v=PG6wKooJChA) to watch the demonstration_
 
 ## HOW TO INSTALL
 First off all make sure that you have the latest version of GCC installed, if not, open your terminal and type:
