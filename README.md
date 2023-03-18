@@ -33,7 +33,12 @@ sudo apt install gcc
 ```
 After installed, simply put the script in the same folder as the C script you want to compile an run it in the terminal with 2 arguments:
 * The name of the script you want to compile
-* The name of the output file 
+* The name of the output file
+But before, don't forget to give the permission to execute the script
+```
+chmod -x ccompiler.sh
+```
+Now you can run it anytime you need!
 ```
 ./ccompiler.sh example.c example.out
 ```
